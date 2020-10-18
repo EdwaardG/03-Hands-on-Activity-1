@@ -1,0 +1,11 @@
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\bin\Debug\3HandsOnActivity1.exe.config
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\bin\Debug\3HandsOnActivity1.exe
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\bin\Debug\3HandsOnActivity1.pdb
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\3HandsOnActivity1.csprojAssemblyReference.cache
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\_3HandsOnActivity1.frmRegistration.resources
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\_3HandsOnActivity1.frmConfirmation.resources
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\_3HandsOnActivity1.Properties.Resources.resources
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\3HandsOnActivity1.csproj.GenerateResource.cache
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\3HandsOnActivity1.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\3HandsOnActivity1.exe
+C:\Users\EDWARD ENEJOSA\source\repos\3HandsOnActivity1\3HandsOnActivity1\obj\Debug\3HandsOnActivity1.pdb
